@@ -91,8 +91,8 @@ heart-failure-survival-prediction/
 ├── notebooks/
 │   └── Heart_Failure_Survival_Prediction_and_Analysis.ipynb
 │
-├── figures/
-│   └── charts/
+├── reports/
+│   └── Heart_Failure_Survival_Prediction Project.pdf
 │
 ├── README.md
 ├── requirements.txt
