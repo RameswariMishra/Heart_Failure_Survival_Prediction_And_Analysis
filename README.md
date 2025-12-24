@@ -92,7 +92,7 @@ heart-failure-survival-prediction/
 │   └── Heart_Failure_Survival_Prediction_and_Analysis.ipynb
 │
 ├── reports/
-│   └── Heart_Failure_Survival_Prediction Project.pdf
+│   └── Heart_Failure_Survival_Prediction_And_Analysis Report.pdf
 │
 ├── README.md
 ├── requirements.txt
